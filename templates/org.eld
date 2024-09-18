@@ -37,3 +37,5 @@ org-mode
 (drwr & ":" p ":" n r ":end:")
 (inlsrc "src_" p "{" q "}")
 
+(mm & "\\( " r " \\)")
+(dm & "\\[" r "\\]")

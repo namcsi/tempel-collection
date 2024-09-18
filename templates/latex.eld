@@ -28,3 +28,6 @@ latex-mode LaTeX-mode
 (trivlist "\\begin{trivlist}\n" r> n> "\\end{trivlist}")
 (verbatim "\\begin{verbatim}\n" r> n> "\\end{verbatim}")
 (verbatimm "\\begin{verbatim*}\n" r> n> "\\end{verbatim*}")
+
+(mm & "\\( " r " \\)")
+(dm & "\\[" r "\\]")
